@@ -38,8 +38,6 @@ public class TestLogin extends Base_Container {
      // verification
      authSteps.stepCheckPageExist();
 
-
-
     }
 
     @Test

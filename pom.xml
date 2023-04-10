@@ -11,7 +11,7 @@
     <properties>
         <java.version>1.8</java.version>
         <javafaker.version>1.0.2</javafaker.version>
-        <selenide.version>6.7.4</selenide.version>
+        <selenide.version>6.12.4</selenide.version>
         <alure.version>2.14.0</alure.version>
         <aspectj.version>1.9.6</aspectj.version>
         <owner.version>1.0.12</owner.version>
